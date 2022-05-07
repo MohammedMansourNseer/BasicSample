@@ -47,28 +47,5 @@ preview
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedmansournseer&show_icons=true&locale=en" alt="mohammedmansournseer" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy me a ko-fi
-
-Buy me a coffee
-
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-
-Developed in India 🇮🇳
 
 
