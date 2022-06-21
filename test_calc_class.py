@@ -91,3 +91,4 @@ def test_maximum(calculator, a, b, expected):
 def test_minimum(calculator, a, b, expected):
     answer = calculator.minimum(a, b)
     verify_answer(expected, answer, calculator.last_answer)
+    print("verify_answer value : ",verify_answer)
